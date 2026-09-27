@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    margin-top: 200px;
+}
+#clock{
+    font-size: 50px;
+}
+h1{
+    font-size: 25px;
+}
